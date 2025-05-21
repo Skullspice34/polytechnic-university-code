@@ -1,0 +1,3 @@
+﻿  finalproject.cpp
+C:\Users\coral\Desktop\New folder\finalproject\finalproject\finalproject.cpp(79,22): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  finalproject.vcxproj -> C:\Users\coral\Desktop\New folder\finalproject\x64\Debug\finalproject.exe

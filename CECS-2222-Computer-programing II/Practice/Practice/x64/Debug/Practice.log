@@ -1,0 +1,5 @@
+﻿  Bateria.cpp
+  practica.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\coral\Desktop\Politecnica\Computer Science\Computer programing II\Practice\x64\Debug\Practice.exe : fatal error LNK1120: 1 unresolved externals

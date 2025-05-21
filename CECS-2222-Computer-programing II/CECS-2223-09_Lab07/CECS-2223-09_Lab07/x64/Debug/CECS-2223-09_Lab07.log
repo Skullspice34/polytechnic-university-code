@@ -1,0 +1,6 @@
+﻿  Car.cpp
+  Dealer.cpp
+  finalProject.cpp
+C:\Users\coral\Desktop\Politecnica\Computer Science\Computer programing II\CECS-2223-09_Lab07\CECS-2223-09_Lab07\finalProject.cpp(23,20): error C3861: 'menu': identifier not found
+C:\Users\coral\Desktop\Politecnica\Computer Science\Computer programing II\CECS-2223-09_Lab07\CECS-2223-09_Lab07\finalProject.cpp(23,12): error C3861: 'execute': identifier not found
+  Generating Code...
